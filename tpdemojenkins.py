@@ -5,4 +5,4 @@ def saluer(nom):
     print(f"Bonjour, {nom} !")
 
 if __name__ == "__main__":
-    saluer("EMO JENKINS - VERSION 2 -PULL ACTION")
+    saluer("EMO JENKINS - VERSION 3 -PULL ACTION")
